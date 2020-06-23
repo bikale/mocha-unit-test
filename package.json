@@ -1,0 +1,14 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "Simple unit test using mochajs",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Bikale Aberra",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
